@@ -5,6 +5,8 @@ import Movie from './components/Movie.vue';
 import Countdown from './components/Countdown.vue';
 import Info from './components/Info.vue';
 import MoreInfo from './components/MoreInfo.vue'
+import FAQ from './components/FAQ.vue';
+import Footer from './components/Layout/Footer.vue'
 </script>
 
 <template>
@@ -14,6 +16,8 @@ import MoreInfo from './components/MoreInfo.vue'
     <Countdown />
     <Info />
     <MoreInfo />
+    <FAQ />
+    <Footer />
 </template>
 
 

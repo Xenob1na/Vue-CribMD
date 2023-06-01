@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-8">
+    <div class="mt-8" id="Home">
         <header class="max-w-[1040px] mx-auto bg-[#fff] rounded-3xl border-solid border-2 border-[#E6E9EF] flex justify-between p-6 text-center">
             <!-- Logo -->
             <img src="/img/Logo.svg" alt="">

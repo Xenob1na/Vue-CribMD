@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-[1040px] mx-auto mb-[60px]">
+    <div class="max-w-[1040px] mx-auto mb-[60px]" id="AboutUs">
         <div class="mb-9">
             <h2 class="text-center font-semibold text-[30px]">Countdown to Black Friday</h2>
         </div>
