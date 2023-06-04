@@ -15,7 +15,7 @@
                 <button class="text-[#fff] bg-[#1971F5] pt-3 pb-3 pr-4 pl-4 rounded-[12px] hover:bg-[#1452B0]" @click="() => TogglePopup('reg')">Sign Up</button>
             </div>
             <BurgerBtn @:click="OpenBurger" class="hidden md:block mb-2"/>
-            <nav class="fixed left-0 top-0 right-0 bottom-0 items-center justify-center bg-[#0D2344] max-w-[350px] max-h-[100%]" v-if="navBurger">
+            <nav class="fixed left-0 top-0 right-0 bottom-0 items-center justify-center bg-[#0D2344] max-w-[350px] max-h-[100%] pl-7" v-if="navBurger">
                 <ul class="flex flex-col items-center gap-10 mt-[130px] mr-10">
                     <li class="text-xl text-white" v-for="(navs, index) in nav"><a :href="navs.path">{{ navs.name }}</a></li>
                 </ul>

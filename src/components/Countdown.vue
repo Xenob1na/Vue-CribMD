@@ -1,9 +1,9 @@
 <template>
-    <div class="max-w-[1040px] mx-auto mb-[60px]" id="AboutUs">
+    <div class="max-w-[1040px] mx-auto mb-[60px] lg:px-5" id="AboutUs">
         <div class="mb-9">
             <h2 class="text-center font-semibold text-[30px]">Countdown to Black Friday</h2>
         </div>
-       <div class="bg-[#FBFCFD] rounded-3xl border-solid border-2 border-[#E6E9EF] flex justify-between pt-7 pb-7 pl-[90px] pr-[90px]">
+       <div class="bg-[#FBFCFD] rounded-3xl border-solid border-2 border-[#E6E9EF] flex justify-between pt-7 pb-7 pl-[90px] pr-[90px] xs:pl-[50px] xs:pr-[50px]">
             <div>
                 <p class="font-bold text-[50px] text-center text-[#1E293B]">{{ days % 365 }}</p>
                 <p class="font-semibold text-[16px] text-center text-[#1E293B]">DAYS</p>

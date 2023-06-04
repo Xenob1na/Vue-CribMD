@@ -1,11 +1,11 @@
 <template>
     <div class="flex justify-between">
-        <div>
+        <div class="lg3:hidden">
             <img :src="img" alt="">
         </div>
         <div class="mt-[100px]">
-            <h3 class="text-[24px] font-semibold text-[#0D2344] leading-9 tracking-[0.8px] mb-4">{{ title }}</h3>
-            <p class="max-w-[530px] font-normal text-[16px] leading-7 text-[#6E7B8F] tracking-[0.8px] mb-4">
+            <h3 class="lg3:text-center text-[24px] font-semibold text-[#0D2344] leading-9 tracking-[0.8px] mb-4">{{ title }}</h3>
+            <p class="lg3:text-center max-w-[530px] font-normal text-[16px] leading-7 text-[#6E7B8F] tracking-[0.8px] mb-4">
                 <slot></slot>
             </p>
             <ul class="list-image-[url(/img/check.png)] list-inside">
