@@ -11,7 +11,7 @@ module.exports = {
       }
     },
     screens: {
-      lgFull: {max: '1870px'},
+      lgMax1: {max: '1500px'},
       lgMax: {max: '1300px'},
       lg: {max: '1040px'},
       lg2: {max: '960px'},
