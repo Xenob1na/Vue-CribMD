@@ -4,32 +4,18 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Что Имееться?
+1) Адаптив до 480px
+2) Модальное окно для регестрации и авторизации
+3) Интарактивный таймер реализований средствами vue
 
-## Customize configuration
+## Главная страницы
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![изображение](https://github.com/Xenob1na/Vue-CribMD/assets/105980448/8e33ece1-2006-4ba4-a627-1658dcf1e724)
 
-## Project Setup
+## Модальное окно
 
-```sh
-npm install
-```
+![изображение](https://github.com/Xenob1na/Vue-CribMD/assets/105980448/d4153821-cbc6-4d38-936c-12d27bb1f6a6)
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
