@@ -1,6 +1,6 @@
 # CribMD
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue 3 (composition api) + tailwind css
 
 ## Recommended IDE Setup
 
@@ -15,7 +15,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Модальное окно
 
-![изображение](https://github.com/Xenob1na/Vue-CribMD/assets/105980448/d4153821-cbc6-4d38-936c-12d27bb1f6a6)
+![изображение](https://github.com/Xenob1na/Vue-CribMD/assets/105980448/1b333a86-3f29-4538-a6dd-f8d052e3453a)
 
 
 
